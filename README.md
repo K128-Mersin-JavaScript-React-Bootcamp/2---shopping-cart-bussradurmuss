@@ -31,3 +31,5 @@ Hazır data için db.json dosyasını kullanabilirsiniz. Bu dosyayı json-server
 
 ## Notlar
 * Proje içerisinde react-router-dom ve ant design eklenmiştir. Bu kütüphaneleri direkt olarak kullanabilirsiniz.
+
+ekleme   -------------------------------
